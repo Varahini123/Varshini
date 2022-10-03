@@ -1,0 +1,45 @@
+<html>
+     <head><title> Example menu </title></head>
+     <body>
+     <center>
+<table width="75%" broder="1" brodercolor="#000000"brodercolordark="#000000" cellspacing ="0"><tr align="center">
+      <th align="center"colspan="6"><h1 Example menu </h1></th>
+</tr>
+<tr>
+       <td colspan="2" align="center"><h2>Starters </h2></td>
+       <td colspan="2" align="center"><h2> Roti </h2></td>
+       <td colspan="2" align="center"><h2> curries </h2></td>
+</tr>
+<tr>
+       <td align="center"><strong ><font color="Blue"> Item </font></strong></td>
+       <td align="center"><strong ><font colour="Blue"> Price </font></strong></td>
+       <td align="center"><strong><font colour="Blue"> Item </font></strong></td>
+       <td align="center"><strong><font colour="Blue"> Price </font></strong></td>
+       <td align="center"><strong ><font color="Blue"> Item </font></strong></td>
+       <td align="center"><strong ><font colour="Blue"> Price </font></strong></td>
+</tr>
+<tr bg colour="#CCCCCC">
+       <td align="center"><strong> Paneer tikka dry </strong></td>
+       <td align="center"> 100.00 </td>
+       <td align="center"><strong> Plain Roti </strong></td>
+       <td align="center"> 10.00 </td>
+       <td align="center"><strong> Panner Bhurji <strong></td>
+       <td align="center"> 110.00 </td>
+</tr>
+<tr>
+       <td align="center"><strong> Panner Kabab </strong></td>
+       <td align="center">100.00</td>
+       <td align="center"><strong> Tandoori roti </strong></td>
+       <td align="center"><strong> Mixed Veg </strong></td>
+       <td align="center"> 100.00 </td>
+</tr>
+<tr align="center">
+        <td align="center" colspan="6"> The prices are in Indian rupees<br>
+        Coustomers have to pay extra taxes<br>
+        Please wait for 20 minutes after giving the order
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>
